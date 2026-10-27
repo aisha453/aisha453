@@ -93,7 +93,7 @@ Privacy-first multimodal device assistant. Runs **Qwen3-VL entirely on-device** 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aisha453&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=C084FC&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=aisha453&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=C084FC&text_color=ffffff"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha453&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=ffffff&langs_count=8"/>
 </div>
 
