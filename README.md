@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Aishani Banerjee</h1>
-<h3 align="center">A passionate coder</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aisha453&label=Profile%20views&color=ffffff&style=flat" alt="aisha453" /> </p>
+# Aishani Banerjee
 
-<p align="left"> <a href="https://twitter.com/aishani453" target="blank"><img src="https://img.shields.io/twitter/follow/aishani453?logo=twitter&style=for-the-badge" alt="aishani453" /></a> </p>
+**Building systems that think, respond, and scale.**
 
-- 🌱 I’m currently learning *Python, SQL, JAVA*
+Full-Stack · AI/ML · Systems · CS @ KIIT University '28
 
-- 📫 How to reach me *aishani453@gmail.com*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishanibanerjee)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aisha453)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aishani453@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RUVLPk4wX6iAVTkJv7YqZxu_DfD_86RK/view?usp=drivesdk](https://drive.google.com/file/d/1RUVLPk4wX6iAVTkJv7YqZxu_DfD_86RK/view?usp=drivesdk)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aishani453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aishani453" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aishani-banerjee-951b93329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishani-banerjee-951b93329/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.aishani.banerjee._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".aishani.banerjee." height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### What I build
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aisha453&show_icons=true&locale=en&layout=compact" alt="aisha453" /></p>
+I work at the intersection of **AI systems** and **production-grade software** — things that handle real data, real users, and real failure modes.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aisha453&show_icons=true&locale=en" alt="aisha453" /></p>
+- 🚨 **[Aegis Crisis System](https://github.com/AyanBis/aegis-crisis-system)** — Multimodal emergency response platform processing live CCTV, voice, and text in real time using Gemini 2.0 Vision + Whisper NLP. Zero frame drops during peak load via custom backend failover. → [Live Demo](https://vocal-gecko-cfe1a9.netlify.app)
+- 🏠 **[KSTOP](https://github.com/SoumyaGhosh2006/KSTOP)** — 4-role hostel management platform with a full digital leave lifecycle, OTP auth, and real-time parent–mentor chat over Socket.IO
+- 🔍 **[Purplexity](https://github.com/aisha453/purplexity)** — AI research platform with a 4-stage retrieval-to-synthesis pipeline, source attribution, and contextual follow-ups
+- 🔧 **[TinkerSight](https://github.com/aisha453/TinkerSight)** — Privacy-first multimodal device assistant running Qwen3-VL entirely on local inference via Ollama
+- 🛍️ **[GLAMGO](https://github.com/SoumyaGhosh2006/GLAMGO)** — E-commerce storefront with real-time Supabase sync, lazy loading, and graceful offline fallback
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aisha453&" alt="aisha453" /></p>## Hi there 👋
+---
 
+### Stack
+
+```
+Languages      Python · JavaScript · Java · C · SQL
+Frontend       React.js · HTML/CSS · Figma
+Backend        FastAPI · Node.js · Express · Prisma · Socket.IO
+AI / GenAI     Claude API · Gemini API · Whisper · Ollama (Qwen3-VL) · Prompt Engineering
+Databases      PostgreSQL · Supabase · SQL
+Infra          Netlify · Railway · Git/GitHub
+```
+
+---
+
+### Currently
+
+- 🎓 B.Tech CSE @ KIIT University, Bhubaneswar (2024–2028)
+- 📌 McKinsey Forward Program participant
+- 🌐 Marketing & Cybersecurity Awareness @ CyberPeace Corps, KIIT Chapter
+- 🔗 SheFi Scholar — Season 15 (Web3 · DeFi · Blockchain)
+
+---
+
+<div align="center">
+<sub>Open to opportunities in full-stack development and AI engineering · aishani453@gmail.com</sub>
+</div>
